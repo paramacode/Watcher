@@ -1,0 +1,12 @@
+{
+  "name": "Watcher",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Watcher": {
+        "$path": "Watcher"
+      }
+    }
+  }
+}
