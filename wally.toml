@@ -1,8 +1,8 @@
 [package]
 name = "paramacode/watcher"
-version = "0.1.3"
+version = "0.1.4"
 license = "MIT"
-description = "A collection of observer classes for Roblox (Ancestry, Attribute, Children, Descenddants, Property, Tag...)"
+description = "A collection of observer classes for Roblox (Ancestry, Attribute, Children, Descendants, Property, Tag...)"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
