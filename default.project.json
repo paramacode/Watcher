@@ -1,0 +1,6 @@
+{
+  "name": "vault",
+  "tree": {
+    "$path": "lib"
+  }
+}
